@@ -1,0 +1,20 @@
+body{
+    color:crimson;
+    background-color:gold;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+.heading{
+    width:80%;
+    font-size:22px;
+    font-weight:900;
+}
+.Name_of_Objects{
+    color:crimson;
+}
+#Camera{
+    border:2px solid cadetblue;
+    width: 350px;
+    height: 300px;
+}
